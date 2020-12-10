@@ -13,5 +13,3 @@ def position_taken?(board, index)
     false
   end
 end
-
- #(int % 3 == 0 && int % 5 == 0)
